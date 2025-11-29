@@ -15,4 +15,5 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   this.reset();
 });
 
+
 it is a java script code added
